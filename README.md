@@ -4,3 +4,8 @@
 
 #### Claude 解釋：https://claude.ai/share/078e8697-92a8-4868-91bf-6ccefcb2f8ac    
 #### Gemini 解釋：https://gemini.google.com/share/3a56306a03cc
+
+<hr>
+
+### 12/24 更新：
+目前的程式已可解析標籤+圖片，但有些圖片解析出來會是馬賽克，推測是有加密。
